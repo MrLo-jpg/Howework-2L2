@@ -15,7 +15,7 @@ public class Main {
         System.out.println();
 
         float f1 = 27.12f;
-        long l = 678965549;
+        long l = 678965549L;
         double d1 = 2.786;
         short s = 569;
         short s1 = -159;
